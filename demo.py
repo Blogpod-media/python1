@@ -22,6 +22,9 @@ stu1.id = "53"
 print(stu1.display())
 print(stu1.name)
 
+
+print("i;m trying to exploit this project.")
+
 class newclass(self,name):
     def __init__(self):
         self.name = name
